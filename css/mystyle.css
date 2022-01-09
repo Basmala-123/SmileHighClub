@@ -1,7 +1,11 @@
   /* start nav */
-  *{
+ 
+    * {
+    margin: 0;
+    overflow-x: hidden;
+    padding: 0;
     font-size: small;
-  }
+}
   
 .navbar-brand{
     text-transform: uppercase;
